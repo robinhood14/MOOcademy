@@ -2,7 +2,7 @@
 
 # MOOcademy: plateforme d'apprentissage.
 
-**Ce projet a été réalisé en Pair à Pair avec un membre de mon groupe, d'où le forked...**
+**Ce projet a été réalisé en Pair à Pair avec mon groupe, d'où le forked...**
 
 L'idée ici est de créer une plateforme d'apprentissage qui recense: 
 
