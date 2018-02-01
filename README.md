@@ -2,7 +2,7 @@
 
 # MOOcademy
 
-**Ce projet a été réalisé en Pair à Pair avec un membre de mon groupe.Un contretemps matériel ne m'a permit de pusher le projet sur un repo perso, d'où le forked...**
+**Ce projet a été réalisé en Pair à Pair avec un membre de mon groupe.Un contretemps informatique ne m'a permit de pusher le projet sur un repo perso, d'où le forked...**
 
 Création d'une plateforme d'apprentissage.
 
@@ -14,4 +14,4 @@ Les test ont fonctionnés.
 
 Des questions ? @robin_hood sur slack 
 
-Retrouve les ressources :point_right:<a href="http://french.railstutorial.org/chapters/modeling-and-viewing-users-one#top">ICI </a>
+Retrouve les ressources  :point_right: <a href="http://french.railstutorial.org/chapters/modeling-and-viewing-users-one#top">ICI </a>
