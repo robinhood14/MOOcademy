@@ -11,9 +11,8 @@ L'idée ici est de créer une plateforme d'apprentissage qui recense:
 
 Les modèles ont été créés avec les associations respectives, les migrations ont été faites, puis les validations ont été intégrée pour les modèles.
 
--Les test ont fonctionnés : deux cours ont été créés, le cours 1 contient deux leçons. 
-
--Pour les faire tourner :
+- Les test ont fonctionnés : deux cours ont été créés, le cours 1 contient deux leçons. 
+- Pour les faire tourner :
 
     ==> '$ rails test
 - Retrouve les ressources :point_right: <a href="http://french.railstutorial.org/chapters/modeling-and-viewing-users-one#top">ICI </a>
