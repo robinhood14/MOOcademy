@@ -14,7 +14,8 @@ Les modèles ont été créés avec les associations respectives, les migrations
 - Les test ont fonctionnés : deux cours ont été créés, le cours 1 contient deux leçons. 
 - Pour les faire tourner :
 
-    ==> '$ rails test
+        ==> '$ rails test
+    
 - Retrouve les ressources :point_right: <a href="http://french.railstutorial.org/chapters/modeling-and-viewing-users-one#top">ICI </a>
 
 Des questions ? @robin_hood sur slack 
