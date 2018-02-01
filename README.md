@@ -4,7 +4,7 @@
 
 Ce projet à été réalisé en Pair à Pair avec un membre de mon groupe.Un contretemps matériel ne m'a permit de pusher le projet sur un repo perso, d'où le forked...
 
-Création d'une plateforme de cours et leçon. 
+Création d'une plateforme d'apprentissage.
 
 L'idée ici est de créer une plateforme qui recense: 
 - 2 cours
