@@ -2,7 +2,7 @@
 
 # MOOcademy: plateforme d'apprentissage.
 
-**Ce projet a été réalisé en Pair à Pair avec un membre de mon groupe.Un contretemps informatique ne m'a permit de pusher le projet sur un repo perso, d'où le forked...**
+**Ce projet a été réalisé en Pair à Pair avec un membre de mon groupe, d'où le forked...**
 
 L'idée ici est de créer une plateforme d'apprentissage qui recense: 
 
@@ -11,7 +11,7 @@ L'idée ici est de créer une plateforme d'apprentissage qui recense:
 
 Les modèles ont été créés avec les associations respectives, les migrations ont été faites, puis les validations ont été intégrée pour les modèles.
 
-Les test ont fonctionnés.
+Les test ont fonctionnés : deux cours ont été créés, le cours 1 contient deux leçons. 
 Des questions ? @robin_hood sur slack 
 
 Retrouve les ressources :point_right: <a href="http://french.railstutorial.org/chapters/modeling-and-viewing-users-one#top">ICI </a>
