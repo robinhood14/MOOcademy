@@ -2,7 +2,7 @@
 
 # MOOcademy
 
-Ce projet à été réalisé en Pair à Pair avec un membre de mon groupe.Un contretemps matériel ne m'a permit de pusher le projet sur un repo perso, d'où le forked...
+Ce projet a été réalisé en Pair à Pair avec un membre de mon groupe.Un contretemps matériel ne m'a permit de pusher le projet sur un repo perso, d'où le forked...
 
 Création d'une plateforme d'apprentissage.
 
