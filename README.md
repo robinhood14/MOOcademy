@@ -6,8 +6,8 @@
 
 L'idée ici est de créer une plateforme d'apprentissage qui recense: 
 
-- 2 cours : chaque cours a un titre et une description.
-- le premier cours contient 2 leçons : chaque leçons a un titre et un body.
+- des cours : chaque cours a un titre et une description.
+- des leçons au sein des cours: chaque leçons a un titre et un body.
 
 Les test ont fonctionnés.
 Des questions ? @robin_hood sur slack 
