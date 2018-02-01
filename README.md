@@ -6,7 +6,7 @@
 
 Création d'une plateforme d'apprentissage.
 
-L'idée ici est de créer une plateforme qui recense: 
+L'idée ici est de créer une plateforme d'apprentissage qui recense: 
 - 2 cours
 - le premier cours contient 2 leçons.
 
