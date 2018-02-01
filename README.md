@@ -9,7 +9,9 @@ L'idée ici est de créer une plateforme d'apprentissage qui recense:
 - des cours : chaque cours a un titre et une description.
 - des leçons au sein des cours: chaque leçons a un titre et un body.
 
+Les modèles ont été créés avec les bonnes associations, les migrations ont été faites, puis les validations ont été intégrée pour les modèles.
+
 Les test ont fonctionnés.
 Des questions ? @robin_hood sur slack 
 
-Retrouve les ressources  :point_right: <a href="http://french.railstutorial.org/chapters/modeling-and-viewing-users-one#top">ICI </a>
+Retrouve les ressources :point_right: <a href="http://french.railstutorial.org/chapters/modeling-and-viewing-users-one#top">ICI </a>
